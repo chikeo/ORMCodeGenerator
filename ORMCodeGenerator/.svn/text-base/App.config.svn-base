@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="GeneratedCodePath" value="C:\Users\chikeo\Documents\Visual Studio 2005\Projects\ORMCodeGenerator\ORMCodeGenerator\GeneratedCode\"/>
+		
+	</appSettings>
+</configuration>
