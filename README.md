@@ -2,7 +2,7 @@
 =================
 
 
-﻿This is a Project is a utility that generates the Business Logic Layer (BLL) and the Data Access layer (DAL) of a C# application from a MS SQL Server database. This Project or utility relies on the Microsoft Enterprise Library Data Access Application Block (DAAB).
+﻿Written sometime around 2007 or 2008, this Project is a utility that generates the Business Logic Layer (BLL) and the Data Access layer (DAL) of a C# application from a MS SQL Server database. This Project or utility relies on the Microsoft Enterprise Library Data Access Application Block (DAAB).
 
 Steps
 =====
